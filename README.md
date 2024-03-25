@@ -7,4 +7,4 @@ steps:
 6. git commit -m "init"
 7. git branch development
 8. git checkout development
-9. 
+9. Merge
